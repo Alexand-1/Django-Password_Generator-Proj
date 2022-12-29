@@ -1,3 +1,3 @@
 implementation with
 django
-bootstrap
+bootstrap.
